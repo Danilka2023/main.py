@@ -2,7 +2,7 @@
 import telebot
 from telebot import types
 import random
-bot=telebot.TeleBot('7199398435:AAHxpw0GB01kSNGDDcR216KTBN2xFe64PzY')
+bot=telebot.TeleBot('TOKEN')
 
 points = 0
 
